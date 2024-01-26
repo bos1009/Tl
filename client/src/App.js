@@ -57,7 +57,7 @@ const customers = [{
   'job': '대통령'
 }
 ]
-
+/*
 class App extends Component {
   render() {
     const { classes } = this.props;
@@ -99,6 +99,8 @@ class App extends Component {
 }
 
 export default withStyles(styles)(App);
+*/
+
 
 /*
 const styles = theme => ({
@@ -141,8 +143,8 @@ const customers = [
     'job' : '대통령',
   }
 ]
+*/
 
-/*
 class App extends Component {
   render(){
     const { classes } = this.props;
@@ -186,4 +188,3 @@ class App extends Component {
 };
 }
 export default withStyles(styles)(App);
-*/
